@@ -53,4 +53,7 @@ FoodForager::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
+  get("/homepage",{:controller=>"pages",:action=>"signin"})
+  get("/submit",{:controller=>"pages",:action=>"food_info"})
 end
