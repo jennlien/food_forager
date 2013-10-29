@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  graduation_year: 1
+  foraging_points: 1
+  password: MyString
+  user_photo: MyString
+  phone: MyString
+  text_setting: false
+  email_setting: false
+  time_notification: 2013-10-29 14:52:06
+
+two:
+  user_id: 1
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  graduation_year: 1
+  foraging_points: 1
+  password: MyString
+  user_photo: MyString
+  phone: MyString
+  text_setting: false
+  email_setting: false
+  time_notification: 2013-10-29 14:52:06

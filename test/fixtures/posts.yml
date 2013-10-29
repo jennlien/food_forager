@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  food_type_id: 1
+  jacobs: false
+  evanston: false
+  other_location: false
+  gluten_free: false
+  meat: false
+  vegan: false
+  vegetarian: false
+  nut_free: false
+  non_dairy: false
+  address: MyString
+  description: MyString
+  photo: MyString
+  quantity: MyString
+
+two:
+  food_type_id: 1
+  jacobs: false
+  evanston: false
+  other_location: false
+  gluten_free: false
+  meat: false
+  vegan: false
+  vegetarian: false
+  nut_free: false
+  non_dairy: false
+  address: MyString
+  description: MyString
+  photo: MyString
+  quantity: MyString
